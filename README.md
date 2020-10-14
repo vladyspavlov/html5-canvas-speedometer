@@ -2,7 +2,7 @@
 Fully functional car speedometer created with pure JavaScript and HTML5 Canvas
 
 ### Demo
-https://vladispavlov.github.io/html5_canvas_speedometer/
+https://vladispavlov.github.io/html5-canvas-speedometer/
 
 ### Usage
 1. Connect `fraction.min.js` and `speedometer.js`
