@@ -1,12 +1,18 @@
 # HTML5 Canvas Car Speedometer
 Fully functional car speedometer created with pure JavaScript and HTML5 Canvas
 
+---
+
 ### Demo
 https://vladispavlov.github.io/html5-canvas-speedometer/
+
+---
 
 ### Usage
 1. Connect `fraction.min.js` and `speedometer.js`
 2. Call `draw(speed, tacho, gas, mileage, turnSignalsStates, iconsStates)`
+
+---
 
 ### Example
 ```
@@ -42,5 +48,8 @@ draw(
 )
 ```
 ![](speedo_example.png)
+
+---
+
 ### Notes
 You can check `speedometer.js` file and change values in `options` variable as you need if you want to additionally customize speedometer.
