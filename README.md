@@ -4,7 +4,7 @@ Fully functional car speedometer created with pure JavaScript and HTML5 Canvas
 ---
 
 ### Demo
-https://vladispavlov.github.io/html5-canvas-speedometer/
+https://vladyspavlov.github.io/html5-canvas-speedometer/
 
 ---
 
